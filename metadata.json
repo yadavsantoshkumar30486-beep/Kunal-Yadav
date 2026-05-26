@@ -1,0 +1,6 @@
+{
+  "name": "3D Weather Tracker",
+  "description": "A real-time 3D weather tracker visualizing wind patterns and storm cells with dynamic flow physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
